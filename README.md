@@ -1,8 +1,8 @@
 # [Fullstack LAB365] Módulo 1 - Semana 3 - Exercícios
 
-Resolução dos exercícios da Semana 3, Módulo 1
-
 Curso Fullstack da LAB365/Senai
+
+Resolução dos exercícios da Semana 3, Módulo 1
 
 
 O objetivo era desenvolver um software para o Estacionamento Pare Aqui,
@@ -15,4 +15,4 @@ b) emitir tíquetes para entrada e saída
 
 c) calcular o valor dos serviços
 
-d) consultar o histórico dos veículos estacionados.
+d) consultar o histórico dos veículos estacionados
